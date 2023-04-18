@@ -1,0 +1,17 @@
+
+body{
+    
+    background-color: hsl(192, 100%, 89%);
+}
+
+header{
+
+    background-color: rgb(65, 204, 204);
+
+}
+
+#logo{
+
+    align-items: center;
+
+}
